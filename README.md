@@ -1,6 +1,6 @@
 ## Hi, I'm Muhammad Haseeb Ul Hassan👋
 
-BSCS student at Forman Christian College University, minoring in Data Analytics & Mathematics. Interested in data driven systems, applied statistics, and AI-powered tools.
+BSCS student at Forman Christian College University, minoring in Data Analytics & Mathematics. Interested in data driven systems, applied statistics, and AI powered tools.
 
 - 📊 **Focus areas:** Data Structures & Algorithms, Digital Logic Design, Statistical Modeling
 - 🛠️ **Tech Stack:** Python | R | C/C++ | Arduino & Embedded Systems
